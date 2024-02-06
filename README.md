@@ -3,7 +3,7 @@
 
 ### 📚 Descrição
 Esse projeto simula um jogo de adivinhação, onde é gerado um número aleatório e o jogador tenta adivinhá-lo.<br>
-Desenvolvido em HTML, CSS, Bootstrap e JavaScript, para fixação de conteúdo.
+Desenvolvido em HTML, CSS, Bootstrap e JavaScript durante a Imersão Dev da Alura.
 
 ### 📁 Acesso
 Hospedado no Netlify <br>
