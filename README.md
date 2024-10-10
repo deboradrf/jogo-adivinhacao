@@ -11,11 +11,11 @@ Projeto desenvolvido durante a Imersão DEV 7ª Edição da Alura, que simula um
 <img src="https://github.com/deboradrf/jogo-adivinhacao/assets/130398684/5ceda621-5b68-44c3-a607-2796e8d2445d">
 
 ### ✔️ Tecnologias utilizadas
-- ``Visual Studio Code``
-- ``HTML``
-- ``CSS``
-- ``Bootstrap``
-- ``JavaScript``
+- Visual Studio Code
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
 
 ### 📁 Acesso ao projeto
 Hospedado no Netlify `https://jogoadivinhacao-deboradrf.netlify.app`
